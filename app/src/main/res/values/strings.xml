@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Número da sorte</string>
+    <string name="title">Boa sorte</string>
+    <string name="number_hint">Digite um número entre 6 e 15</string>
+    <string name="number_generator">Gerar números</string>
+    <string name="btnMega">Mega Sena</string>
+    <string name="number_hint2">Digite um número entre 5 e 15</string>
+    <string name="number_hint3">Digite um número entre 15 e 20</string>
+    <string name="btnQuina">Quina</string>
+    <string name="btnLotoFacil">Loto Fácil</string>
+</resources>
